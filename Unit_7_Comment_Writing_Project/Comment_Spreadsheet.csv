@@ -1,0 +1,8 @@
+Students,Class,Score for each test,Final Test Score,First quater Grade,First Semester Grade,Class engagement (1-5),Use of help from teacher (1-5),Work Ethic (1-5),Collaberation(1-5),Score for each indicator
+George,AP Calculus BC,"65 63 70 79 65 66",66,B,D+,1,1,2,2,"limits: 4, continuity: 3, differentiation: 2, integration: 2"
+John,AP Calculus BC,"85 83 79 82 80 80",80,B-,B-,5,3,4,4,"limits: 2, continuity: 3, differentiation: 3, integration: 3"
+Lily,AP Calculus BC,"93 90 88 96 98 95",95,A-,A,4,3,5,5,"limits: 3, continuity: 4, differentiation: 5, integration: 5"
+Billy,AP Calculus BC,"85 89 90 88 91 82",88,B,B-,3,4,3,3,"limits: 4, continuity: 3, differentiation: 4, integration: 3"
+Sarah,AP Calculus BC,"89 96 99 92 89 92",92,B+,A,4,5,3,5,"limits: 5, continuity: 3, differentiation: 4, integration: 5"
+Joe,Computer Science,"100 99 98 100 99 99",100,A,A,5,5,5,5,"dictionary: 5, tuples: 5, list: 5"
+Betty,Biology,"89 98 96 93 98 99",98,A,A,4,5,2,4,"ecology: 5, DNA: 4, plant: 4, animal: 5, cell_structure: 4, evolution: 5"
